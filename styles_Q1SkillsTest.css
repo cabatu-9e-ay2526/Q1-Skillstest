@@ -1,0 +1,69 @@
+body {
+		background-image: url("backgroung st.jpg");
+		font-family:"Josefin Sans", sans-serif;
+		color:#422309;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+fieldset {
+		width:30px;
+		margin:40px;
+	
+	
+	}
+
+	h1 {
+		text-align: auto;
+		color: purple;
+	}
+
+	p {
+		margin: 10px auto;
+	}
+
+
+	h2 {
+		text-align: auto;
+		color: purple;
+	}
+
+	h3 {
+		text-align: auto;
+		color: purple;
+	}
+	form{
+               padding: 20px;
+               border-radius: 20px;
+               margin: auto;
+
+           }
+	
+	input[type="submit"] {
+		background-color: #faccff;
+	}
+
+.container {
+	width: 80%;
+	margin: 0px auto;
+	border: 1px solid grey;
+	padding: 10px;
+	box-shadow: 10px 10px 5px 4px rgba(18,74,158,0.34);
+-webkit-box-shadow: 10px 10px 5px 4px rgba(18,74,158,0.34);
+-moz-box-shadow: 10px 10px 5px 4px rgba(18,74,158,0.34);
+	display: flex;
+}
+
+.box {
+	background-color: white;
+	width: 60%;
+	border: 1px solid grey;
+	padding: 10px;
+	margin: 25px ;
+	border-radius:10px;
+	box-shadow: 10px 10px 5px 4px rgba(158,18,102,0.34);
+-webkit-box-shadow: 10px 10px 5px 4px rgba(158,18,102,0.34);
+-moz-box-shadow: 10px 10px 5px 4px rgba(158,18,102,0.34);
+}
+
+
